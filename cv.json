@@ -1,0 +1,100 @@
+{
+  "name": "Paola Carvajal",
+  "credentials": "MBA, MIB",
+  "headline": "Operations Strategy | Supply Chain Transformation | Program Leadership",
+  "location": "Puebla, Mexico",
+  "email": "paola.carvajal.sanchez@hotmail.com",
+  "phone": "+52 222 480 7474",
+  "linkedin": "https://www.linkedin.com/in/paola-carvajal-senior-manager",
+  "updated": "September 2026",
+  "summary": "Operations and supply chain strategy leader with 15+ years of experience across consulting, manufacturing, automotive, technology, retail and consumer products. Combines operating-model design, PMO governance, transition management, analytics and team leadership to turn strategy into sustained operational performance.",
+  "summary_detail": "At PwC, leads multi-workstream delivery for Fortune 500 clients, including PepsiCo operations stabilization and Duracell's Controllership transition. Earlier leadership includes launching Deceuninck's Mexico operation, achieving full profitability and delivering measurable improvements in logistics, cost and growth.",
+  "metrics": [
+    {"value":"30%", "label":"Lower warehousing costs", "context":"Deceuninck · negotiated cost reduction"},
+    {"value":"95%", "label":"Fewer expedited shipments", "context":"Schlemmer · logistics optimization"},
+    {"value":"70%", "label":"Revenue growth", "context":"Manufacturing advisory · market entry"},
+    {"value":"40%", "label":"Lower operating costs", "context":"Manufacturing advisory · process redesign"}
+  ],
+  "expertise": [
+    {"title":"Strategy & transformation", "items":["Operations & supply chain strategy", "Operating-model design", "Performance improvement", "Business cases & value tracking"]},
+    {"title":"Program & people leadership", "items":["PMO governance, risk & delivery", "Multi-workstream roadmaps", "Transition & knowledge transfer", "Executive stakeholders, coaching & quality"]},
+    {"title":"Operations & technology", "items":["Sourcing & supplier performance", "Logistics, inventory & planning", "Analytics & process automation", "AI-enabled operations & GenAI"]}
+  ],
+  "pwc": {"company":"PricewaterhouseCoopers S.C.", "role":"Senior Associate | Consulting", "dates":"Feb 2023 - Present", "projects":[
+    {"client":"PepsiCo", "title":"UCX PMF CDMX Remediation & Stabilization", "scope":"Program leadership & operational governance", "dates":"Feb 2026 - Present", "note":"Second contract extension through Nov 20, 2026", "bullets":[
+      "Led a 10-FTE cross-functional team across incident remediation, Salesforce operations, customer support, process improvement, training and knowledge management; transitioned the remediation model to a lean 5-FTE steady-state operation.",
+      "Led the remediation strategy for 2,700+ ServiceNow incidents and 900+ Salesforce cases, reducing legacy backlog while maintaining operational continuity and service performance.",
+      "Expanded delivery across Mexico and US support organizations; established dashboards, KPIs, leadership cadences and decision routines to manage quality, priorities and risk.",
+      "Helped lead the POAF automation framework by translating operational pain points into process maps, requirements, testing priorities and an automation roadmap.",
+      "Secured two consecutive contract extensions and a cross-engagement referral; formally mentored three Associates and coached team deliverables and quality."
+    ]},
+    {"client":"PepsiCo", "title":"Automated Outbound Puebla Sales Pilot", "scope":"Operations strategy & business case", "dates":"Aug 2026 - Present", "note":"Modeled capacity opportunity; not realized savings", "bullets":[
+      "Co-developed an Amazon Connect / AWS outbound-sales operating model for approximately 1,000 target customers and a seven-agent team, using shared agents, progressive/predictive dialing and ML answer detection.",
+      "Modeled approximately 500-650 agent-hours of potential capacity freed in Progressive mode, or approximately 900 in Predictive mode, over 40 days. These are alternative scenarios, not additive or realized results.",
+      "Assessed Salesforce-AWS integration, skills-based routing, Customer Profiles, compliance controls and scalability; translated trade-offs into a phased roadmap and value case for client and PwC leadership."
+    ]},
+    {"client":"Duracell", "title":"Controllership Transition & Knowledge Transfer", "scope":"Transition Management Lead", "dates":"2025", "bullets":[
+      "Led the Controllership knowledge-transfer workstream from Miami to Costa Rica, establishing the transition plan, governance, documentation and handover framework.",
+      "Created the process taxonomy and unique task-ID structure for KT planning; designed calendars, team mapping and individual training/test tracking.",
+      "Standardized SharePoint repository controls and reusable knowledge capture through shadowing, video tutorials, narrative guides and exception handling; coordinated cross-border training dependencies.",
+      "Received direct PwC Partner recognition for expertise, commitment and above-and-beyond client support."
+    ]},
+    {"client":"Google", "title":"RegReady Program", "scope":"Compliance Analyst / PMO Support", "dates":"Dec 2023 - Jun 2025", "bullets":[
+      "Analyzed and mapped provisions across approximately 150 global privacy and security laws to support the global compliance program.",
+      "Participated in steering meetings with senior legal counsel and documented decisions, risks, dependencies and actions; coordinated implementation workstreams, timelines and delivery follow-through."
+    ]},
+    {"client":"PwC", "title":"Resource Management & Forecasting Optimization", "scope":"Internal process-improvement initiative", "dates":"Jul 2023 - Feb 2024", "bullets":[
+      "Led a firmwide initiative to reduce manual resource analysis and standardize forecasting; designed a centralized Salesforce-based solution and dashboards.",
+      "Aligned requirements and governance with Finance, Human Capital and Tower Leadership; recognized through PwC's iRace 4.0 innovation program."
+    ]},
+    {"client":"Lennar", "title":"Supply Chain Strategy", "scope":"Supply Chain Strategy Consultant", "dates":"Jul 2023 - Sep 2023", "bullets":[
+      "Led an eight-week engagement to improve supplier performance and procurement efficiency, analyzing invoices for cost-reduction opportunities and designing supplier scorecards, KPIs and a live-metrics framework."
+    ]},
+    {"client":"H&M Group", "title":"EDB Platform Program", "scope":"Project Management Consultant / Acting PM Support", "dates":"Mar 2023 - May 2023", "bullets":[
+      "Co-led the global EDB Platform Program and assumed full Project Manager responsibilities during the PM's absence; served as liaison to the Global PMO and applied Agile ways of working to coordinate teams, timelines and deliverables."
+    ]}
+  ]},
+  "earlier": [
+    {"company":"Manufacturing & Operations Consultancy", "location":"Santa Cruz, Costa Rica", "role":"Director / Strategic Advisor", "dates":"Oct 2021 - Mar 2022", "bullets":[
+      "Advised manufacturers on growth, operational scalability, production performance and financial optimization. Market-entry strategies generated 70% revenue growth; production-layout and process redesign reduced operating costs by 40%.",
+      "Led ERP deployment and aligned technology investment with financial oversight, risk management and long-term business goals."
+    ]},
+    {"company":"Deceuninck", "location":"Puebla, Mexico", "role":"Country Manager", "dates":"Sep 2016 - Aug 2021", "bullets":[
+      "Established the Mexico operation from the ground up: infrastructure, team, operating model, end-to-end supply chain, commercial processes and governance.",
+      "Built and led a team of 10+ across operations, logistics, customs and supporting functions; negotiated a 30% warehousing-cost reduction and strengthened inventory control and ERP/CRM-enabled processes.",
+      "Built a portfolio of 57 top-tier B2B clients and achieved full operational profitability through fiscal planning, cash-flow optimization and risk mitigation."
+    ]},
+    {"company":"Abaco | IT, Software & Hardware", "location":"Puebla, Mexico", "role":"General Manager", "dates":"Jan 2016 - Sep 2016", "bullets":[
+      "Strengthened B2B partnerships with Intel, Dell and HP; improved market performance, financial management, personnel efficiency and operating discipline through targeted restructuring."
+    ]},
+    {"company":"La Tendence | Trading Company", "location":"Puebla, Mexico", "role":"Commercial Manager", "dates":"Jun 2015 - Nov 2015", "bullets":[
+      "Secured Grupo Carso, Mercedes and Audi through strategic negotiations; optimized international trade and procurement while maintaining regulatory compliance and supplier coordination."
+    ]},
+    {"company":"Schlemmer, a DELFINGEN company", "location":"Tlaxcala, Mexico", "role":"Customer Service, Logistics & Procurement Manager", "dates":"Aug 2011 - Jun 2015", "bullets":[
+      "Served as PMO for the Continental project transferring operations from China to Mexico, managing logistics, customer service, procurement, customs and supplier performance with minimal disruption.",
+      "Reduced expedited shipments by 95% through logistics redesign and shipment planning; managed 70 national and international clients and approximately 1,500 components.",
+      "Developed forecasts and annual plans; introduced ABC Analysis and Buy-vs.-Build purchasing methodologies, negotiated supplier contracts, and strengthened inventory, capacity and cash-flow visibility.",
+      "Directed customs and broker relationships, corrective-action plans, 5S and shipment-certification standards to improve execution and reliability."
+    ]}
+  ],
+  "recognition": [
+    "Direct PwC Partner recognition for the Duracell transition.",
+    "PwC iRace 4.0 recognition for resource-management and forecasting innovation.",
+    "Two consecutive engagement extensions and a client-sponsored cross-engagement referral.",
+    "Formal mentor to three Associates; coaching contributed to a team member's promotion case."
+  ],
+  "education": [
+    {"degree":"Master's in Innovation Project Management", "institution":"UTEL", "dates":"2025 - Present · Expected Feb 2028", "status":"In progress"},
+    {"degree":"Master's in International Business (MIB)", "institution":"UTEL", "dates":"Jan 2024 - Apr 2025"},
+    {"degree":"Master of Business Administration (MBA)", "institution":"UTEL", "dates":"2023 - 2024"},
+    {"degree":"Bachelor in Business Administration"},
+    {"degree":"Diploma in Logistics & Supply Chain"},
+    {"degree":"Diploma in Accounting & Finance for Non-Financials"}
+  ],
+  "training": [
+    {"title":"SAP Certified Associate - Project Manager - SAP Activate", "type":"Certification", "detail":"Issued Dec 22, 2025 · Expires Dec 23, 2026"},
+    {"title":"SAFe Scrum Master Course (6.0)", "type":"Course completed", "detail":"Scaled Agile · Dec 22, 2023", "id":"98930765-0317"}
+  ],
+  "technology": ["Amazon Connect & AWS: operating-model and pilot business-case design", "Salesforce & ServiceNow operations", "POAF process automation framework", "ERP/CRM exposure: Compaq, Commercial, Mycrosip, Odoo"],
+  "languages": ["Spanish · Native", "English · Proficient (C2)", "German · Basic", "Turkish · Basic"]
+}
